@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+    padding:0;
+    margin: 0;
+}
+body{
+    background-image: url(./pexels-karolina-grabowska-4814061.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{
+    color: crimson;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 2cm;
+    font-style: italic;
+
+}
+p{
+    width: 90%;
+    margin: 5%;
+    margin-top: 3%;
+    color: white   ; 
+font-size: 1cm;
+text-align: center;
+}
+p:hover{
+    color: aliceblue;
+    
+}

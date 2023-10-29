@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(./pexels-andreea-ch-1166644.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.heading{
+    color:black;
+    margin-left: 25%;
+    margin-top: 10%;
+    font-size: 4cm;
+
+}
+.heading h1{
+    font-size: 3cm;
+    width: 80%;
+    
+
+}
+.heading :hover{
+    color: black;
+    box-shadow: 5px 5px 5px 5px  crimson;
+}
+
+.contentt{
+    float: right;
+    width: 70%;
+}
+.contentt p{
+    font-size: 0.8cm;
+    
+}
+.colors{
+    margin-top: 8%;
+}
+.contentt1{
+
+    width: 100%;
+}
+.contentt1 h1{
+    text-align: center;
+    font-size: 1.5cm;
+}
+.contentt1 p{
+    margin-left: 10%;
+    font-size: 0.8cm;
+}
+
+.contentt1 h1:hover{
+    color: red;
+}
+
+
+
